@@ -22,7 +22,8 @@ public class Programa1 {
         char antras = 'b';
         char trecias = 'c';
         System.out.println("pirmas + antras + trecias = " + pirmas + antras + trecias);
-
+        String vienas = "" + pirmas + antras + trecias;
+        System.out.println(vienas);
 
     }
 
